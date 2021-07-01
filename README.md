@@ -1,11 +1,26 @@
 # Relaxer App
 ### Just Breathe and Relax!!
-A simple relaxer which reminds us to take a break and 'breathe- in and out' !
 
-### Tech Stack: 
-- HTML : Main page which wraps all divs and containers
-- CSS : created animations; used transform, scale, keyframes
-- JavaScript : Made Time quantums and functions
+## Description
+A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
+
+### Breathe-In Stage Image
+
+  <img src="images/relaxerapp.png" width="750" title="breathe-in">
+
+### Hold Stage Image
+
+ <img src="images/hold.png" width="750" title="hold">
+
+### Breathe-Out Stage Image
+
+ <img src="images/breathe-out.png" width="750" title="breathe-out">
+
+#### Tech stack:
+---
+- HTML5
+- CSS3
+- Javascript
 
 ### Future scope:
 Can be extended and made into a chrome extension or deployed to a mobile app!
